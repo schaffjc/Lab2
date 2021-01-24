@@ -21,10 +21,13 @@ class Main {
 
     System.out.println("Sum: " + sum);
 
-    if(blue > brown && red > orange){System.out.println("Blue over Brown and Red over Orange");}
+    if(blue > brown && red > orange)
+    {System.out.println("Blue over Brown and Red over Orange");}
 
-    if(brown <= green) {System.out.println("Brown is less than or equal to Green");}
+    if(brown <= green) 
+    {System.out.println("Brown is less than or equal to Green");}
 
-    if(sum == total){System.out.println("Numbers match");}
+    if(sum == total)
+    {System.out.println("Numbers match");}
   }
 }
